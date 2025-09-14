@@ -9,8 +9,8 @@
 
 - 💡 I work as a stress tester, currently learning toward becoming a software developer.
 - 🎓 I am an intermediate python coder that is keen to learn more about Javascript!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 🤖 Iam a creative individual that loves cooding.
+
 
 ---
 
@@ -31,10 +31,10 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
+- 💏 Teamwork & Collaboration
 - 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- Leadership
+-🎈 emotional intelligence
 
 ---
 
@@ -73,7 +73,8 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-I am a commited individual and I am excited to build a portfolio to showcase my work!
+I am a commited individual and I am excited to build a portfolio to showcase my work!📒
+I am a singer at heart 🎵
 
 ---
 
