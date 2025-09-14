@@ -1,8 +1,8 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Welcome to Masi's world!
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi there, I'm Masibulele Ngxiki
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+# Stress Tester becoming a software developer | 🚀 Excited to Learn & Build
 
 ---
 
