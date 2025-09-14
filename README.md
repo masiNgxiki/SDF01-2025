@@ -1,7 +1,7 @@
 # Welcome to Masi's world!!!
 # 👋 Hi, I'm Masibulele Ngxiki
 
-# 🌱 Stress tester and beginner developer | 🚀 life long learner
+# 🌱 Stress tester and beginner developer | 📒 life long learner
 
 ---
 
@@ -33,12 +33,12 @@
 
 - 💏 Teamwork & Collaboration
 - 📢 Communication Skills
--🤴 Leadership
--🎈 emotional intelligence
+- 🤴 Leadership
+- 🎈 emotional intelligence
 
 ---
 
-##🔔  Projects
+## 🔔  Projects
 
 Here are some of my milestone projects (to be updated as I progress!):
 
