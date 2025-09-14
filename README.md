@@ -1,15 +1,14 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Welcome to Masi's world!!!
+# 👋 Hi, I'm Masibulele Ngxiki
 
-# 👋 Hi, I'm [Your Name]
-
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+# 🌱 Stress tester and beginner developer | 🚀 life long learner
 
 ---
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
+- 💡 I work as a stress tester, currently learning toward becoming a software developer.
+- 🎓 I am an intermediate python coder that is keen to learn more about Javascript!
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building my first real-world application.
 
@@ -74,7 +73,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+I am a commited individual and I am excited to build a portfolio to showcase my work!
 
 ---
 
