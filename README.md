@@ -29,16 +29,16 @@
 
 ---
 
-## 🏆 Soft Skills
+## 🏆My Soft Skills
 
 - 💏 Teamwork & Collaboration
 - 📢 Communication Skills
-- Leadership
+-🤴 Leadership
 -🎈 emotional intelligence
 
 ---
 
-## 📌 Projects
+##🔔  Projects
 
 Here are some of my milestone projects (to be updated as I progress!):
 
@@ -50,31 +50,31 @@ Here are some of my milestone projects (to be updated as I progress!):
 ### **2️⃣ Personal Portfolio** _(Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
+🔹 **Technologies:** Python,HTML, CSS
 🔹 **Status:** ⏳ In Progress
 
 ---
 
-## 📚 Learning Goals
+## 💻 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
+- 🚀 Get used to Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+- 💡 Build real-world projects for my portfolio
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://https://github.com/masiNgxiki)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masibulele-ngxiki-2b8897184/)  
+📧 Email: [masibulelengxiki@gmail.com](mailto:masibulelenxiki@gmail.com)
 
 ---
 
-## 🚀 Fun Fact
+##😅  Fun Facts about me 😅 
 
-I am a commited individual and I am excited to build a portfolio to showcase my work!📒
-I am a singer at heart 🎵
+- I am a commited individual and I am excited to build a portfolio to showcase my work!📒
+- I am a singer at heart 🎵
 
 ---
 
