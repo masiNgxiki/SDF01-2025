@@ -1,7 +1,7 @@
 # Welcome to Masi's world!!!
 # 👋 Hi, I'm Masibulele Ngxiki
 
-# 🌱 Stress tester and beginner developer | 📒 life long learner
+#  🗿 Stress tester and beginner developer | 📒 life long learner
 
 ---
 
